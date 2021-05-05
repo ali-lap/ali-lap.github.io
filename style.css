@@ -12,9 +12,8 @@
  font = Coda Caption
 */
 
- h1{
+ 
+h1,h2,li{font-family: "Coda Caption";
+color: #E71D36;}
 
-font-family: "Coda Caption";
-color: #E71D36;
-font size: 64;
- }
+h1{font-size: 64px;}
