@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<title>Hummus</title>
-	<link href="style.css" type="text/css" rel="stylesheet"/ >
 	</head>
 	<body>
 		<h1>Hummus</h1>
@@ -10,9 +9,8 @@
 		<h2>Hummus is a great snack. You can eat it with snap peas, carrots, broccoli, chick peas, and pretty much any other vegetable. </h2>
 
 
-<img src="hummus.jpeg" alt="hummus.html"/>
-	
+<img src="hummus.jpg" alt="hummus" /
+	</body>
 	<br/>
 	<a href="index.html">Home</a>
-</body>
 </html>
